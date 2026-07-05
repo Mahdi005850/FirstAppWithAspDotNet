@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalAPI.RoutParameter", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalAPI.HTTPVerbs", "MinimalAPI.HTTPVerbs\MinimalAPI.HTTPVerbs.csproj", "{7185ADFF-0D9F-4798-B669-98BA52FA256D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalAPI.CRUD", "MinimalAPI.CRUD\MinimalAPI.CRUD.csproj", "{3FCD3EA4-1290-4A0F-A1CC-FEF4B5F136BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{7185ADFF-0D9F-4798-B669-98BA52FA256D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7185ADFF-0D9F-4798-B669-98BA52FA256D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7185ADFF-0D9F-4798-B669-98BA52FA256D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FCD3EA4-1290-4A0F-A1CC-FEF4B5F136BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCD3EA4-1290-4A0F-A1CC-FEF4B5F136BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FCD3EA4-1290-4A0F-A1CC-FEF4B5F136BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCD3EA4-1290-4A0F-A1CC-FEF4B5F136BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
