@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleWareSampleMinimalAPI"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleWareSampleExceptions", "MiddleWareSampleExceptions\MiddleWareSampleExceptions.csproj", "{5C54638D-F08F-4440-B643-EC04A970A9BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalAPI.RoutParameter", "MinimalAPI.RoutParameter\MinimalAPI.RoutParameter.csproj", "{CC0E480B-7332-4B0A-BEEE-F05BFBECDB34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalAPI.HTTPVerbs", "MinimalAPI.HTTPVerbs\MinimalAPI.HTTPVerbs.csproj", "{7185ADFF-0D9F-4798-B669-98BA52FA256D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{5C54638D-F08F-4440-B643-EC04A970A9BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C54638D-F08F-4440-B643-EC04A970A9BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C54638D-F08F-4440-B643-EC04A970A9BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC0E480B-7332-4B0A-BEEE-F05BFBECDB34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC0E480B-7332-4B0A-BEEE-F05BFBECDB34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC0E480B-7332-4B0A-BEEE-F05BFBECDB34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC0E480B-7332-4B0A-BEEE-F05BFBECDB34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7185ADFF-0D9F-4798-B669-98BA52FA256D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7185ADFF-0D9F-4798-B669-98BA52FA256D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7185ADFF-0D9F-4798-B669-98BA52FA256D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7185ADFF-0D9F-4798-B669-98BA52FA256D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
